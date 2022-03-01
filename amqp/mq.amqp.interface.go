@@ -1,4 +1,4 @@
-package mq
+package amqp
 
 // Connector Exchange: 'amq.direct', 'amq.fanout', 'amq.topic'
 type Connector struct {
